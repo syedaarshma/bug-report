@@ -1,0 +1,30 @@
+#summary
+* limited access of majuportal
+* mycourses option shows blank informations
+* server blocks down on maximum logins
+* limited active session given
+* lectures posted on same platform.                                                                             
+
+***
+REPORTED BY
+* Syeda Arshma Mansoor
+
+***
+Environment
+* JSP.NET
+
+***
+EXPECTED RESULTS
+* Website should be accessable from every where 
+* Option my courses should show the specific detailed related to courses and marks obtained 
+* Server should be made accessable every time when maximum students login, software should capable to lift maximum logins on expected conditions
+* Active session must be of 20 mints or more so that students should be able to fill any specific forms such as teachers evaulation.
+* Lectures and asignments submission and uploadings should be made on the software rather then on other platform.
+
+***
+ACTUAL REULTS
+* limited access was given and access was made possible only within the campus 
+* My courses options displays blank pages
+* Server gets down on maximum students login 
+* Active session is of 10 mints
+* No such option is provided for lecters posting 
